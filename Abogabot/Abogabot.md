@@ -25,4 +25,4 @@ Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso
 
 Buyer Persona
 
-Abogabot/imagenes/Buyer persona.PNG
+[Abogabot/imagenes/Buyer persona.PNG](https://github.com/DiegoCruzArroyo/PracticasLATAMXFrontEnd/blob/03570e807eee67a05db271a24c4fe14207078864/Abogabot/imagenes/Buyer%20persona.PNG)
