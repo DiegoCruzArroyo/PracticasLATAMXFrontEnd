@@ -21,3 +21,8 @@ Cada vez que un administrador haga una actualización, le deberá llegar una not
 Todos los Usuarios
 Como Usuario requiere tener una página responsive para poder verla desde diferentes pantallas/dispositivos.
 Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso de que ya tenga una en la plataforma web.
+
+
+Buyer Persona
+
+Abogabot/imagenes/Buyer persona.PNG
