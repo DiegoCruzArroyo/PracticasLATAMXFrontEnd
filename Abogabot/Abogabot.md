@@ -27,3 +27,18 @@ Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso
 
 [Abogabot/imagenes/Buyer persona.PNG]
 ¡[(https://github.com/DiegoCruzArroyo/PracticasLATAMXFrontEnd/blob/03570e807eee67a05db271a24c4fe14207078864/Abogabot/imagenes/Buyer%20persona.PNG)]
+
+# Dillinger
+## _The Last Markdown Editor, Ever_
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
