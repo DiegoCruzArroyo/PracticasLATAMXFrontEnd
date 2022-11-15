@@ -23,7 +23,7 @@ Como Usuario requiere tener una página responsive para poder verla desde difere
 Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso de que ya tenga una en la plataforma web.
 
 
-##Buyer Persona
+## Buyer Persona
 
 [Abogabot/imagenes/Buyer persona.PNG]
 ¡[(https://github.com/DiegoCruzArroyo/PracticasLATAMXFrontEnd/blob/03570e807eee67a05db271a24c4fe14207078864/Abogabot/imagenes/Buyer%20persona.PNG)]
