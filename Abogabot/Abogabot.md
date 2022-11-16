@@ -27,6 +27,18 @@ Como Usuario requiere poder registrar una cuenta de usuario o conectarse en caso
 
 ![flowchart app](/Abogabot/imagenes/Buyer%20persona.PNG)
 
+## Público objetivo
+
+![flowchart app](/Abogabot/imagenes/Publico%20Objetivo.png)
+
+# Wireframe
+
+## UI
+![flowchart app](/Abogabot/imagenes/UI.jpg )
+
+## UX
+
+![flowchart app](/Abogabot/imagenes/UX.png)
 
 
 # Dillinger
