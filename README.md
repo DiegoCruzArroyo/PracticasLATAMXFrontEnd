@@ -1,6 +1,6 @@
 # PracticasLATAMXFrontEnd
 
-Manejo de Módulos:
+Menu de Practicas
 
 <ul>
         <li><a href="Abogabot"><img src="https://img.shields.io/badge/Practica-Abogabot-blue"/> </a></li>
